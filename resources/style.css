@@ -1,0 +1,63 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    text-align: center;
+    background-image: url("https://i.postimg.cc/mkPvwj8m/fond-d-cran-poulailler.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 40px; 
+    font-style: italic; 
+    font-family: 'Patrick Hand', cursive; 
+    color: #388E3C; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    margin: 3rem;
+}
+
+#rules {
+    display: inline; 
+    line-height:1.5; 
+    position:relative;
+    top: -5px; 
+    background-color: rgba(227, 235, 238, 0.7); 
+    font-size: 1.2rem; 
+    font-family: 'Patrick Hand', cursive; 
+    color:#B45532; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#signature {
+    font-size: 1rem; 
+    font-family: 'Patrick Hand', cursive; 
+    font-style: italic; 
+    color: black; 
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+     position: fixed; 
+     bottom: 1px; 
+     right:1%
+}
+
+#challenge-button {
+    position: fixed;
+    border-radius: 50% 50% 48% 48% / 60% 60% 40% 40%; 
+    width: 4.45rem; 
+    height: 5.56rem; 
+    font-style: italic; 
+    bottom: 1.1rem; 
+    left: 50%; 
+    transform: translateX(-50%); 
+    background-color: rgba(248, 244, 227, 0.9); 
+    font-family: 'Patrick Hand', cursive;
+    font-size: 0.9rem;
+}
