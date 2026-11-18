@@ -94,37 +94,37 @@ const stateHandlers = {
 
 const PROVOCATIONS = {
   chick : {
-    text : `Cadet Chickolaï Peepolini says : 
+    text : `Cadet Benito Peepolini says : 
     
     🐣 PIOU PIOU ! Tu crois pouvoir me battre ? Même mes œufs sont plus malins que toi !🐣`,
     sound: new Audio("./resources/sounds/Peep.mp3")
   },
 
   hen : {
-    text: `Herr Brunhilde Henocescu says :
+    text: `Herr Ghenghina Chickenescu says :
     
     🐔 COT COT COT ! La victoire est garantie par le Parti ! Ta défaite aussi ! 🐔`,
     sound: new Audio("./resources/sounds/Chuckle.mp3")
   },
 
   duck : {
-    text: `Comissar Duckimir von Quackquack says :
+    text: `Comissar Duckfried von Quackquack says :
     
     🦆 COIN COIN ! Ici, c'est moi qui donne les ordres ! Et toi, tu ferais mieux d'apprendre à obéir ! 🦆`,
     sound: new Audio("./resources/sounds/Quack(magiaZ-pixabay).mp3")
   },
 
   rooster : {
-    text: `First Secretary Roostislav says :
+    text: `First Secretary Roostonio Galazar says :
     
     🐓 COCORICO ! Prépare-toi à courber l'échine, camarade ! La basse-cour ne connaît qu'un seul maître !🐓`,
     sound: new Audio("./resources/sounds/Cockcrow.mp3")
   },
 
   pig : {
-    text: `Le gGrand tTmonier Friedrich Francisco Bacon Ribsonovitch says :
+    text: `Le Grand Timonier Friedrich Francisco Bacon Ribsonovitch says :
     
-    🐷 GROIN GROIN ! Misérable vermisseau ! Tu oses défier Friedrich Francisco Bacon Ribsonovitch, 
+    🐷 GROÏK GROÏK ! Misérable vermisseau ! Tu oses défier Friedrich Francisco Bacon Ribsonovitch, 
     Glorieux, Éternel et Suprême Grand Timonier, Éternel Grand Protecteur des Œufs du Peuple et 
     Lumière immortelle de la République ?! 
     
